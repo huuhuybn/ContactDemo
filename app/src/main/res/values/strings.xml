@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactDemo</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="btn_load_contacts">Load All Contacts</string>
+</resources>
